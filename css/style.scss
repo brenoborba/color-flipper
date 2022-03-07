@@ -57,6 +57,13 @@ a:hover{
 
             li{
                 margin-right: 30px;
+                a{
+                    color: rgb(19, 204, 204);
+                }
+
+                a:hover{
+                    color: black
+                }
             }
         }
     }

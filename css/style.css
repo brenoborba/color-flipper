@@ -63,6 +63,14 @@ a:hover {
   margin-right: 30px;
 }
 
+.navbar .nav-center ul li a {
+  color: #13cccc;
+}
+
+.navbar .nav-center ul li a:hover {
+  color: black;
+}
+
 /* --------- MAIN ---------- */
 .container {
   text-transform: uppercase;
